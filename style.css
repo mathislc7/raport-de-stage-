@@ -1,0 +1,272 @@
+body
+{
+margin-left: 0px;
+}
+
+
+.head1
+{
+    box-shadow: 0 12px 18px rgba(0,0,0, .1);
+    border-bottom-right-radius: 20px;
+    padding-left: 1%;
+    display: flex;
+    align-items: center;
+    height: 9%;
+    font-family:sans-serif;
+    color: #424558
+}
+.menu-gris
+{
+    color:aqua
+}
+
+.texte1
+{
+    font-size: 30pt;
+    text-align: center;
+    padding-left: 25%;
+    font-weight: 900;
+}
+.texte
+{
+    font-size: 30pt;
+    text-align: center;
+    font-weight: 900;
+    padding-left: 20%;
+}
+.texte2
+{
+    font-size: 30pt;
+    text-align: center;
+    font-weight: 900;
+    padding-left: 18%;
+}
+.texte3
+{
+    font-size: 30pt;
+    text-align: center;
+    font-weight: 900;
+    padding-left: 8%;
+}
+.texte4
+{
+    font-size: 30pt;
+    text-align: center;
+    font-weight: 900;
+    padding-left: 30%;
+}
+nav ul 
+{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+nav a 
+{
+    text-decoration: none;
+    color: #FFF;
+    display: inline-block;
+    padding: 6%;
+    margin-top: 2%;
+    
+}
+
+nav
+{
+    background-color:#424558;
+    text-align: center;
+    height: 90%;
+    width: 17%;
+    position: absolute;
+}
+
+nav li 
+{
+  list-style-type: none;
+    font-size: 22px;
+    padding-top: 0px;
+}
+
+.fonction-menu:hover
+{
+    border-left: 5px solid white;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.service-menu:hover
+{
+    border-left: 5px solid white;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.déroulement-menu:hover
+{
+    border-left: 5px solid white;
+    background-color: rgba(255, 255, 255, 0.15);  
+}
+
+.motivation-menu:hover
+{
+    border-left: 5px solid white;
+    background-color: rgba(255, 255, 255, 0.15); 
+}
+
+.métier-menu:hover
+{
+    border-left: 5px solid white;
+    background-color: rgba(255, 255, 255, 0.15); 
+}
+
+.condition-menu:hover
+{
+    border-left: 5px solid white;
+    background-color: rgba(255, 255, 255, 0.15); 
+}
+
+.connaissance-menu:hover
+{
+    border-left: 5px solid white;
+    background-color: rgba(255, 255, 255, 0.15); 
+}
+
+.conclusion-menu:hover
+{
+    border-left: 5px solid white;
+    background-color: rgba(255, 255, 255, 0.15); 
+}
+
+.footer {
+    bottom: 0;
+    left: 0;
+    font-size: 25px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    background-color: #424558;
+    height: 10%;
+    width: 98.6%;
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    position: absolute;
+}
+
+.imgfooter {
+    left: 38%;
+    position: absolute;
+}
+
+.imgfooter2 {
+    left: 70%;
+    position: absolute;
+}
+
+.imgfooter3 {
+    left: 9.5%;
+    position: absolute;
+}
+
+.numtel {
+    left: 73%;
+    position: absolute;
+    margin-top: 2%;
+    color: #888c94;
+}
+
+.tel {
+    text-decoration: none;
+    color: #888c94;
+}
+
+.mail {
+    left: 41%;
+    position: absolute;
+    margin-top: 0px;
+    color: #888c94;
+    text-decoration: none;
+}
+
+.loc {
+    color: #888c94;
+    margin-right: 62.4%;
+    text-decoration: none;
+}
+
+.loc1 {
+    color: #888c94;
+    margin-right: 68.5%;
+    text-decoration: none;
+}
+
+.accueil {
+    color: #FFF;
+    text-decoration: none;
+    margin-right: 25px;
+}
+
+.tel:hover
+{
+    color: #1fc278;
+}
+
+.mail:hover
+{
+    color: #1fc278;
+}
+
+.loc:hover
+{
+    color: #1fc278;
+}
+
+.loc1:hover
+{
+    color: #1fc278;
+}
+
+.textpr
+{
+    margin-left: 18%;
+    font-size: 25pt;
+    margin-top: 5%;
+    
+}
+.textpr2
+{
+    margin-left: 1%;
+    font-size: 25pt;
+    margin-top: 5%;
+    
+}
+
+.textpr3
+{
+    margin-left: 18%;
+    font-size: 25pt;
+    margin-top: 5%;
+    
+}
+
+.nom
+{
+    text-align: center;
+    padding-top: 2%;
+}
+.date
+{
+    text-align: center;
+    padding-top: 10%;
+}
+
+
+.menu-gris
+{
+    color: #424558;
+    background-color: #424558;
+}
+
+.lieu-entreprise
+{
+padding-top: 16%;
+}
